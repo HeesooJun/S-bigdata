@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <b>🏆  특화 프로젝트 최우수상 수상</b>
+  <b>🏆 특화 프로젝트 최우수상 수상</b>
 </p>
 
 <br/>
@@ -74,7 +74,6 @@
 | 🗓️ **진행 기간** | 2026.02.23 ~ 2026.03.30 (약 5주) |
 | 💻 **플랫폼** | Web |
 | 👥 **개발 인원** | 6명 |
-| 🏢 **기 관** |  청년 SW·AI 아카데미  14기 |
 
 <br/>
 
@@ -127,10 +126,10 @@ PiView는 이 문제를 해결하기 위해 피부 분석, 설문 기반 보정,
       <img src="docs/gif/OCR.gif" width="100%" alt="OCR 제품 인식 화면"/>
     </td>
     <td align="center">
-      <img src="docs/gif/추천제품.gif" width="100%" alt="제품 비교 화면"/>
+      <img src="docs/gif/제품 AI분석.gif" width="100%" alt="제품 비교 화면"/>
     </td>
     <td align="center">
-      <img src="docs/gif/tmp.gif" width="100%" alt="개인 추천"/>
+      <img src="docs/gif/추천제품 추가 확대.gif" width="100%" alt="개인 추천"/>
     </td>
   </tr>
 
@@ -142,13 +141,13 @@ PiView는 이 문제를 해결하기 위해 피부 분석, 설문 기반 보정,
   </tr>
   <tr>
     <td align="center">
-      <img src="docs/gif/루틴 AI분.gif" width="100%" alt="내 루틴 화면"/>
+      <img src="docs/gif/루틴 AI분석.gif" width="100%" alt="내 루틴 화면"/>
     </td>
     <td align="center">
-      <img src="assets/gifs/복습게임.gif" width="100%" alt="복습게임"/>
+      <img src="docs/gif/추천제품 추가.gif" width="100%" alt="복습게임"/>
     </td>
     <td align="center">
-      <img src="docs/gif/제품 AI분.gif" width="100%" alt="AI 제품 분석"/>
+      <img src="docs/gif/제품 AI분석.gif" width="100%" alt="AI 제품 분석"/>
     </td>
      <td align="center">
       <img src="docs/gif/챗봇.gif" width="100%" alt="챗봇 화면"/>
@@ -349,7 +348,7 @@ PiView는 이 문제를 해결하기 위해 피부 분석, 설문 기반 보정,
 
 | **Category** | **Spec** |
 | --- | --- |
-| **Instance** |  Cloud Instance (Ubuntu) |
+| **Instance** | Cloud Instance (Ubuntu) |
 | **Container** | Docker, Docker Compose |
 | **CI/CD** | GitLab, Jenkins (Publish over SSH) |
 | **Frontend** | React, Next.js |
